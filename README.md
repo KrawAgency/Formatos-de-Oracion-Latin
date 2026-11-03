@@ -9,7 +9,7 @@ Página sencilla para abrir y guardar en el celular los formatos de rezo en PDF.
   - 100 Réquiem Aeternam
   - 3 Ave Marías pro Ánimis Purgatorii
   - 3 Ave Marías de la Llama de Amor
-  - Oración a San Padre Pío de Pietrelcina
+  - Oración de San Padre Pío de Pietrelcina
 
 ## Publicar
 Settings → Pages → Branch: `main`, carpeta `/ (root)` → Save.
