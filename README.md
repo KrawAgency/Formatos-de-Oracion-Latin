@@ -11,6 +11,7 @@ Página sencilla para abrir y guardar en el celular los formatos de rezo en PDF.
   - 3 Ave Marías de la Llama de Amor
   - Oración de San Padre Pío de Pietrelcina
   - Coronilla de Reparación (basada en las Oraciones de Fátima)
+  - Coronilla a la Divina Misericordia
 
 ## Publicar
 Settings → Pages → Branch: `main`, carpeta `/ (root)` → Save.
